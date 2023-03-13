@@ -1,7 +1,7 @@
 # Fast-Crafts
-A place to report bugs or enhancements to my datapack
 
-# Fast Crafts 
+### **A place to report bugs or enhancements to my datapack**
+
 
 **This datapacks mains goal is to reduce time by craft stuff out of pack versions or more in the craft interface**
 
